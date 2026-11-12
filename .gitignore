@@ -1,0 +1,12 @@
+# Cache da Godot
+.godot/
+!/.godot/extension_list.cfg
+
+# Arquivos de exportação (opcional, mas recomendado)
+export_presets.cfg
+/export/
+/builds/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
